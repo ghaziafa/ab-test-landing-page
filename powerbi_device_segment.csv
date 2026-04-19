@@ -1,0 +1,7 @@
+group,device,users,conversions,revenue,cvr_pct
+control,desktop,2252,53,2500.23,2.35
+control,mobile,2305,56,2619.81,2.43
+control,tablet,519,16,898.29,3.08
+treatment,desktop,2181,99,5253.38,4.54
+treatment,mobile,2241,128,6645.9,5.71
+treatment,tablet,502,17,913.55,3.39
