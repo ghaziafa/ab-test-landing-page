@@ -87,7 +87,7 @@ python ab_test_analysis.py
 **Dependencies:** `pandas`, `numpy`, `scipy`, `matplotlib`, `seaborn`
 
 ```bash
-pip install pandas numpy scipy matplotlib seaborn
+pip install -r requirements.txt
 ```
 
 ---
